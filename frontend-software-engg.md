@@ -1,5 +1,6 @@
 **What we build at Firecamp** :hammer:
-Firecamp is a centralized platform for various GUI clients like API, WebSocket, and GraphQL which helps to accelerate the current development workflow.
+
+Firecamp :fire:  is a centralized platform for various GUI clients like API, WebSocket, and GraphQL which helps to accelerate the current development workflow.
 Moreover, it serves the multi-purpose DevTools which assists developers to deal with their problems. 
 Firecamp boosts the development process, removes the team dependencies, and improves productivity. Indeed, it's a campsite for developers that facilitates developers to build, enhance, and test their end-points.
 
