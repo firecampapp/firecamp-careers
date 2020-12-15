@@ -1,12 +1,24 @@
-# firecamp-internship
+Welcome! 👋  to the Firecamp careers repo.  
 
-Welcome! 👋  to the Firecamp internship repo. 
-
-This repo contains the details about the internship opportunity to work with/on Firecamp. 
+This repo contains the details about the full-time/ internship opportunity to work with/on Firecamp. 
 
 # What is Firecamp 🔥
 
 Firecamp helps Dev Team to test and manage various APIs. The entire team can be in the same place while developing, testing, monitoring, and documenting the APIs of their choice [HTTP, WS, GraphQL, MQTT, ...]
+
+# The values we belive at Firecamp
+Transparency 
+Open culture
+Result oriented 
+Innovation first approach
+
+# Full-time work at Firecamp :
+1. Full Stack Software Engineer (NodeJS)
+2. Full Stack Software Engineer (ReactJS)
+3. Community Manager (Part-time)
+4. Social Media Manager (Part-time)
+5. Manual tester
+
 
 Here is the following Internship opportunity :
 ---
