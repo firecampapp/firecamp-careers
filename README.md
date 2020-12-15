@@ -7,10 +7,10 @@ This repo contains the details about the full-time/ internship opportunity to wo
 Firecamp helps Dev Team to test and manage various APIs. The entire team can be in the same place while developing, testing, monitoring, and documenting the APIs of their choice [HTTP, WS, GraphQL, MQTT, ...]
 
 # The values we belive at Firecamp
-Transparency 
-Open culture
-Result oriented 
-Innovation first approach
+- Transparency 
+- Open culture
+- Result oriented 
+- Innovation first approach
 
 # Full-time work at Firecamp :
 1. Full Stack Software Engineer (NodeJS)
