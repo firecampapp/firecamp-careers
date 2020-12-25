@@ -40,5 +40,8 @@ API is magic for the 21st century and building APIs faster by following the engi
 #### Benefits + Perks
 You’ll solve interesting challenges using best-of-breed technologies, and have a significant impact on the product and roadmap. Competitive benefits package that includes a potentially life-changing stock options grant.
 
+### Location :
+Surat/Remote
+
 ### How to apply? 
 Please [apply from here](https://forms.gle/HMZ8JkyECeKC11Zt7) and if you've any questions, feel free to drop an [email](shreya@firecamp.io) here.
