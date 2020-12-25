@@ -1,5 +1,7 @@
 ### Full-Stack Software Engineer (NodeJS)
 
+Firecamp is currently onboarding the CORE Backend engineers who will directly work with founders and helping them to build Firecamp for fellow Developer Community. 
+
 #### About this role : 
 API is magic for the 21st century and building APIs faster by following the engineering standards is a critical problem for developers. To solve it and create the fastest collaborative API platform, we need you f you feel the same the problem for fellow developers. 
 
@@ -9,8 +11,8 @@ API is magic for the 21st century and building APIs faster by following the engi
 - You’ll help improve performance and reliability, or polish existing APIs.
 - You’re strong at Computer Science fundamentals - Algorithms, DataTypes, OPS and Software Design, and are familiar with various JavaScript tools, frameworks, and development practices.
 - You write testable, maintainable code that’s easy to understand and east to collaborate.
-- You are a good communicator who can explain technical concepts to product managers, designers, support, and other engineers.
-- You have a curiosity about how things work.
+- You are a good at communication who can work with cross functional team of engineers (Design/Dev/Rev-Ops). 
+- You're curios about how Software Engineeering work and how we can make it better. 
 
 #### We’re working with Following stack to build better world for APIs.
 - Nodejs/Express/Typescript
