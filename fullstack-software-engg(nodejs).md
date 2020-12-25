@@ -1,9 +1,9 @@
 ### Full-Stack Software Engineer (NodeJS)
 
-Firecamp is currently onboarding the CORE Backend engineers who will directly work with founders and helping them to build Firecamp for fellow Developer Community. 
+Firecamp is currently on-boarding the CORE Backend engineers who will directly work with founders and helping them to build Firecamp for fellow Developer Community. 
 
 #### About this role : 
-API is magic for the 21st century and building APIs faster by following the engineering standards is a critical problem for developers. To solve it and create the fastest collaborative API platform, we need you f you feel the same the problem for fellow developers. 
+API is magic for the 21st century and building APIs faster by following the engineering standards is a critical problem for developers. To solve it and create the fastest collaborative API platform, we need you if you feel the same the problem for fellow developers. 
 
 #### What you’ll do :
 
