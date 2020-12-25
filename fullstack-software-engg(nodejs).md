@@ -13,7 +13,7 @@ API is magic for the 21st century and building APIs faster by following the engi
 - You are good at communication who can work with a cross-functional team of engineers (Design/Dev/Rev-Ops).
 - You're curious about how Software Engineering works and how we can make it better.
 
-#### We’re working with Following stack to build better world for APIs.
+#### Following stack you'll work with to build better world for APIs.
 - Nodejs/Express/Typescript
 - MongoDB/Postgres/Redis
 - DO/AWS
@@ -26,7 +26,7 @@ API is magic for the 21st century and building APIs faster by following the engi
 - Experience building internal APIs for web apps
 - Experience writing MongoDB/Postgres with large data sets
 - Experience working at a startup
-- Knowledge about various API Styles.
+- Knowledge of various API Styles.
 
 #### Bonus points if you have:
 
