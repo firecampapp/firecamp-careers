@@ -33,7 +33,7 @@ Compensation: Unpaid for the first 2 months. Depending upon your performance and
 - Help the product team continuously improve our Developer’s experience 
 
 ## **Skills** 🔆 
-**ReactJS,Redux, Javascript, ES6/7/8, NextJS,HTML/CSS, Componante based system, Testing Framework (mocha, chai, jest )**
+**ReactJS,Redux, Javascript, ES6/7/8, NextJS,HTML/CSS, Component based system, Testing Framework (mocha, chai, jest )**
 
 **Responsibilities** :nut_and_bolt:
 * Contribute to team activity and be a team player
